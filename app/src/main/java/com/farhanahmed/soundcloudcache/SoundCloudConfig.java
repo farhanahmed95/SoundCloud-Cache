@@ -4,7 +4,7 @@ package com.farhanahmed.soundcloudcache;
  * Created by farhanahmed on 24/07/15.
  */
 public class SoundCloudConfig {
-    public static final String CLIENT_ID = "client_id=e15214294f03794c7bde96f12eba1806";
+    public static final String CLIENT_ID = "client_id=YOUR ID HERE";
     public static final String URL = "https://api.soundcloud.com/tracks.json?"+CLIENT_ID;
 
     public static class Key{
